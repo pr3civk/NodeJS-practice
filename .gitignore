@@ -1,4 +1,4 @@
 .exe
 .vscode
-.go
+.bin
 node_modules/
